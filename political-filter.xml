@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:apps="http://schemas.google.com/apps/2006">
+  <title>Political fundraising and petition filters</title>
+  <entry>
+    <category term="filter" />
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:political-share-0</id>
+    <apps:property name="hasTheWord" value="{from:actblue.com from:winred.com from:change.org from:thepetitionsite.com from:sign.moveon.org} -subject:receipt -subject:confirmation -subject:refund -subject:&quot;thank you for your donation&quot; -subject:&quot;thank you for your contribution&quot; -subject:&quot;tax statement&quot; -subject:&quot;giving statement&quot; -subject:&quot;payment failed&quot; -subject:&quot;donation failed&quot; -subject:&quot;donation canceled&quot; -subject:&quot;donation cancelled&quot; -subject:&quot;thanks for your donation&quot; -subject:&quot;thanks for your contribution&quot;" />
+    <apps:property name="shouldTrash" value="true" />
+    <apps:property name="shouldMarkAsRead" value="true" />
+    <apps:property name="shouldNeverMarkAsImportant" value="true" />
+  </entry>
+  <entry>
+    <category term="filter" />
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:political-share-1</id>
+    <apps:property name="hasTheWord" value="{&quot;donate now&quot; &quot;donate today&quot; &quot;please donate&quot; &quot;make a donation&quot; &quot;make a contribution&quot; &quot;contribute now&quot; &quot;contribute today&quot; &quot;chip in&quot; &quot;rush a donation&quot; &quot;rush your donation&quot;} -subject:receipt -subject:confirmation -subject:refund -subject:&quot;thank you for your donation&quot; -subject:&quot;thank you for your contribution&quot; -subject:&quot;tax statement&quot; -subject:&quot;giving statement&quot; -subject:&quot;payment failed&quot; -subject:&quot;donation failed&quot; -subject:&quot;donation canceled&quot; -subject:&quot;donation cancelled&quot; -subject:&quot;thanks for your donation&quot; -subject:&quot;thanks for your contribution&quot;" />
+    <apps:property name="shouldTrash" value="true" />
+    <apps:property name="shouldMarkAsRead" value="true" />
+    <apps:property name="shouldNeverMarkAsImportant" value="true" />
+  </entry>
+  <entry>
+    <category term="filter" />
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:political-share-2</id>
+    <apps:property name="hasTheWord" value="{&quot;donation goal&quot; &quot;fundraising deadline&quot; &quot;match your donation&quot; &quot;sign the petition&quot; &quot;sign our petition&quot; &quot;sign this petition&quot; &quot;sign my petition&quot; &quot;sign a petition&quot; &quot;add your signature&quot; &quot;contact your senator&quot;} -subject:receipt -subject:confirmation -subject:refund -subject:&quot;thank you for your donation&quot; -subject:&quot;thank you for your contribution&quot; -subject:&quot;tax statement&quot; -subject:&quot;giving statement&quot; -subject:&quot;payment failed&quot; -subject:&quot;donation failed&quot; -subject:&quot;donation canceled&quot; -subject:&quot;donation cancelled&quot; -subject:&quot;thanks for your donation&quot; -subject:&quot;thanks for your contribution&quot;" />
+    <apps:property name="shouldTrash" value="true" />
+    <apps:property name="shouldMarkAsRead" value="true" />
+    <apps:property name="shouldNeverMarkAsImportant" value="true" />
+  </entry>
+  <entry>
+    <category term="filter" />
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:political-share-3</id>
+    <apps:property name="hasTheWord" value="{&quot;contact your representative&quot; &quot;call your senator&quot; &quot;call your representative&quot; &quot;write to congress&quot; &quot;tell congress&quot; &quot;tell your senator&quot; &quot;tell your representative&quot; &quot;ActBlue Express&quot; &quot;WinRed Express&quot; &quot;grassroots donation&quot;} -subject:receipt -subject:confirmation -subject:refund -subject:&quot;thank you for your donation&quot; -subject:&quot;thank you for your contribution&quot; -subject:&quot;tax statement&quot; -subject:&quot;giving statement&quot; -subject:&quot;payment failed&quot; -subject:&quot;donation failed&quot; -subject:&quot;donation canceled&quot; -subject:&quot;donation cancelled&quot; -subject:&quot;thanks for your donation&quot; -subject:&quot;thanks for your contribution&quot;" />
+    <apps:property name="shouldTrash" value="true" />
+    <apps:property name="shouldMarkAsRead" value="true" />
+    <apps:property name="shouldNeverMarkAsImportant" value="true" />
+  </entry>
+  <entry>
+    <category term="filter" />
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:political-share-4</id>
+    <apps:property name="hasTheWord" value="{&quot;grassroots contribution&quot; &quot;grassroots donors&quot; &quot;small-dollar donors&quot; &quot;FEC deadline&quot; &quot;urge Congress&quot; &quot;urge your senator&quot; &quot;urge your representative&quot; &quot;call Congress&quot; &quot;email your senator&quot; &quot;email your representative&quot;} -subject:receipt -subject:confirmation -subject:refund -subject:&quot;thank you for your donation&quot; -subject:&quot;thank you for your contribution&quot; -subject:&quot;tax statement&quot; -subject:&quot;giving statement&quot; -subject:&quot;payment failed&quot; -subject:&quot;donation failed&quot; -subject:&quot;donation canceled&quot; -subject:&quot;donation cancelled&quot; -subject:&quot;thanks for your donation&quot; -subject:&quot;thanks for your contribution&quot;" />
+    <apps:property name="shouldTrash" value="true" />
+    <apps:property name="shouldMarkAsRead" value="true" />
+    <apps:property name="shouldNeverMarkAsImportant" value="true" />
+  </entry>
+  <entry>
+    <category term="filter" />
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:political-share-5</id>
+    <apps:property name="hasTheWord" value="{&quot;send a message to Congress&quot;} -subject:receipt -subject:confirmation -subject:refund -subject:&quot;thank you for your donation&quot; -subject:&quot;thank you for your contribution&quot; -subject:&quot;tax statement&quot; -subject:&quot;giving statement&quot; -subject:&quot;payment failed&quot; -subject:&quot;donation failed&quot; -subject:&quot;donation canceled&quot; -subject:&quot;donation cancelled&quot; -subject:&quot;thanks for your donation&quot; -subject:&quot;thanks for your contribution&quot;" />
+    <apps:property name="shouldTrash" value="true" />
+    <apps:property name="shouldMarkAsRead" value="true" />
+    <apps:property name="shouldNeverMarkAsImportant" value="true" />
+  </entry>
+  <entry>
+    <category term="filter" />
+    <title>Mail Filter</title>
+    <id>tag:mail.google.com,2008:filter:political-share-6</id>
+    <apps:property name="hasTheWord" value="{&quot;add your name&quot; &quot;demand action&quot; &quot;action alert&quot; &quot;take action now&quot; &quot;take action today&quot; &quot;sign now&quot;} {petition congress senator representative legislation election ballot} {unsubscribe &quot;opt out&quot; &quot;email preferences&quot;} -subject:receipt -subject:confirmation -subject:refund -subject:&quot;thank you for your donation&quot; -subject:&quot;thank you for your contribution&quot; -subject:&quot;tax statement&quot; -subject:&quot;giving statement&quot; -subject:&quot;payment failed&quot; -subject:&quot;donation failed&quot; -subject:&quot;donation canceled&quot; -subject:&quot;donation cancelled&quot; -subject:&quot;thanks for your donation&quot; -subject:&quot;thanks for your contribution&quot;" />
+    <apps:property name="shouldTrash" value="true" />
+    <apps:property name="shouldMarkAsRead" value="true" />
+    <apps:property name="shouldNeverMarkAsImportant" value="true" />
+  </entry>
+</feed>
