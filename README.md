@@ -13,6 +13,8 @@ You need a desktop computer for the setup process.
 Want to clean up old mail too? 
 Before **Create filters**, check **Apply new filters to existing email**.
 
-**Broad by design:** charity newsletters with donation requests can be caught too. Common receipts and payment confirmations are excluded. No filter catches everything. Gmail permanently removes Trash after 30 days.
+**It's broad by design:** some charity newsletters with donation requests can be caught too. Common receipts and payment confirmations are excluded. 
 
-Changed your mind? On the same settings page, you can just delete the seven filters. Move any wanted messages out of Trash before they are deleted permanently. 
+**Changed your mind? Here's how to remove it:** 
+On the same settings page, you can just delete the seven filters and new mail will spam your inbox as it did before. 
+Remember to move any wanted messages out of the Trash before they are deleted permanently (gmail deletes the trash on a rolling 30 day basis) 
